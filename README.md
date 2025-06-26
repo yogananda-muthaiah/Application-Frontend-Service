@@ -6,7 +6,7 @@
 
 ### Clone the Repo  
 
-Note : API Endpoint of Application Frontend Service to be pointed.
+Note : API Endpoint of Application Frontend Service to be pointed.  Exmple : https://api.us10.dt.appfront.cloud.sap?apptid=54efa409-ada6-40bf-a598-a21554e77f50
 
 ```
 npm install -g /appfront-cli
