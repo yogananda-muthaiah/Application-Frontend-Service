@@ -1,0 +1,10 @@
+{
+    "welcomeFile": "/index.html",
+    "routes": [{
+        "source": "^/user-api/currentUser$",
+        "service": "sap-approuter-userapi"
+    }, {
+        "source": ".*",
+        "service": "app-front"
+    }]
+}
